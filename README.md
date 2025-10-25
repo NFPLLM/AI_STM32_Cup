@@ -1,3 +1,1 @@
-# AI_STM32_Cup
-硬件环境STM32H750VBT6+OV5640+1.69寸SPI_LCD
-软件环境Clion+STM32CUBEMX+openocd
+此文件用于模型的训练
