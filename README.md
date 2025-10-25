@@ -1,6 +1,11 @@
 # AI_STM32_Cup
 硬件环境STM32H750VBT6+OV5640+1.69寸SPI_LCD
 软件环境Clion+STM32CUBEMX+openocd
+
+
 module_train分支中为训练模型所用到的Python文件
+
+
 module_conver分支为模型转换成C代码后的文件
+
 STM32为工程文件，由于文件较大，之上传了库和主要文件，具体环境需要自己配置
